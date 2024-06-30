@@ -1,0 +1,413 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - bankura sammilani college",
+                "totalResults": "134000",
+                "searchTerms": "bankura sammilani college",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "82f847e97b34e483f"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - bankura sammilani college",
+                "totalResults": "134000",
+                "searchTerms": "bankura sammilani college",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "82f847e97b34e483f"
+            }
+        ]
+    },
+    "context": {
+        "title": "cpSearchX"
+    },
+    "searchInformation": {
+        "searchTime": 0.549514,
+        "formattedSearchTime": "0.55",
+        "totalResults": "134000",
+        "formattedTotalResults": "134,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Welcome To The Official Website of Bankura Sammilani College",
+            "htmlTitle": "Welcome To The Official Website of <b>Bankura Sammilani College</b>",
+            "link": "https://bankurasammilanicollege.net/",
+            "displayLink": "bankurasammilanicollege.net",
+            "snippet": "First NAAC Accredited College in Bankura District, Estd. 1948 · Urgent Examination Form Fill-up (UG 2nd, 4th & 6th Sem - 2023-24) Notice regarding Fees Payment ...",
+            "htmlSnippet": "First NAAC Accredited <b>College</b> in <b>Bankura</b> District, Estd. 1948 &middot; Urgent Examination Form Fill-up (UG 2nd, 4th &amp; 6th Sem - 2023-24) Notice regarding Fees Payment&nbsp;...",
+            "formattedUrl": "https://bankurasammilanicollege.net/",
+            "htmlFormattedUrl": "https://<b>bankurasammilanicollege</b>.net/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvdszH5CVbw-op0946KPuRI3TEeMDN8sTS9wxVjdu1ilS8qF4PTmdgl1Za&s",
+                        "width": "151",
+                        "height": "155"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://bankurasammilanicollege.net/images/bsc_logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Student Login - Bankura",
+            "htmlTitle": "Student Login - <b>Bankura</b>",
+            "link": "https://onlinebscollege.com/student_login.aspx",
+            "displayLink": "onlinebscollege.com",
+            "snippet": "BANKURA SAMMILANI COLLEGE. KENDUADIHI, BANKURA Phone No. : 03242-250741 Help Line No. : 9475666697. Direct Payment. Important Links :- Whats New :- National ...",
+            "htmlSnippet": "<b>BANKURA SAMMILANI COLLEGE</b>. KENDUADIHI, BANKURA Phone No. : 03242-250741 Help Line No. : 9475666697. Direct Payment. Important Links :- Whats New :- National&nbsp;...",
+            "formattedUrl": "https://onlinebscollege.com/student_login.aspx",
+            "htmlFormattedUrl": "https://onlinebs<b>college</b>.com/student_login.aspx",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDiMCsCVsJ5EX3L1oI2wxoSjBKtHNcrPVwcWDzAwlnCIMLP_vF6n5dc8&s",
+                        "width": "180",
+                        "height": "177"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///f70209199613d79d1a7aec9dfdfb552ca25e571702940f5e10d05556ea32f212"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Notice Board :: Bankura Sammilani College",
+            "htmlTitle": "Notice Board :: <b>Bankura Sammilani College</b>",
+            "link": "https://bankurasammilanicollege.net/notice_board.php",
+            "displayLink": "bankurasammilanicollege.net",
+            "snippet": "(03242) 250741/ 255511. Quick Links. Bankura University; Dept. of Higher Education; NAAC; RUSA; U.G.C; MHRD; IGNOU. Location. © 2019 Bankura Sammilani College.",
+            "htmlSnippet": "(03242) 250741/ 255511. Quick Links. Bankura University; Dept. of Higher Education; NAAC; RUSA; U.G.C; MHRD; IGNOU. Location. © 2019 <b>Bankura Sammilani College</b>.",
+            "formattedUrl": "https://bankurasammilanicollege.net/notice_board.php",
+            "htmlFormattedUrl": "https://<b>bankurasammilanicollege</b>.net/notice_board.php",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvdszH5CVbw-op0946KPuRI3TEeMDN8sTS9wxVjdu1ilS8qF4PTmdgl1Za&s",
+                        "width": "151",
+                        "height": "155"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://bankurasammilanicollege.net/images/bsc_logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bankura Sammilani College - Wikipedia",
+            "htmlTitle": "<b>Bankura Sammilani College</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Bankura_Sammilani_College",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "Bankura Sammilani College, established in 1948, is one of the oldest colleges in Bankura district. It offers undergraduate courses in arts, commerce and ...",
+            "htmlSnippet": "<b>Bankura Sammilani College</b>, established in 1948, is one of the oldest colleges in Bankura district. It offers undergraduate courses in arts, commerce and&nbsp;...",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bankura_Sammilani_College",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bankura</b>_<b>Sammilani</b>_<b>College</b>",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "url_text": "www.bankurasammilanicollege.net",
+                        "bday": "1948-09-01",
+                        "fn": "Bankura Sammilani College",
+                        "url": "www.bankurasammilanicollege.net"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfBhSC6XxULweEQDSI3SVI1twX9At_tmNm8aRqnzQFArDIL6DJTe2BgjoN&s",
+                        "width": "180",
+                        "height": "177"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bankura_Sammilani_College_logo.jpg",
+                        "theme-color": "#eaecf0",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                        "og:title": "Bankura Sammilani College - Wikipedia",
+                        "og:image:height": "1180",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bankura_Sammilani_College_logo.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Science Departments :: Bankura Sammilani College",
+            "htmlTitle": "Science Departments :: <b>Bankura Sammilani College</b>",
+            "link": "https://bankurasammilanicollege.net/science_departments.php",
+            "displayLink": "bankurasammilanicollege.net",
+            "snippet": "The Department of Botany, Bankura Sammilani College started its journey with the affiliation in Pass Course under The University of.",
+            "htmlSnippet": "The Department of Botany, <b>Bankura Sammilani College</b> started its journey with the affiliation in Pass Course under The University of.",
+            "formattedUrl": "https://bankurasammilanicollege.net/science_departments.php",
+            "htmlFormattedUrl": "https://<b>bankurasammilanicollege</b>.net/science_departments.php",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvdszH5CVbw-op0946KPuRI3TEeMDN8sTS9wxVjdu1ilS8qF4PTmdgl1Za&s",
+                        "width": "151",
+                        "height": "155"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://bankurasammilanicollege.net/images/bsc_logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bankura Sammilani College | Institution outputs | Nature Index",
+            "htmlTitle": "<b>Bankura Sammilani College</b> | Institution outputs | Nature Index",
+            "link": "https://www.nature.com/nature-index/institution-outputs/india/bankura-sammilani-college/52242c85140ba0a146000004",
+            "displayLink": "www.nature.com",
+            "snippet": "Research. Date range: 1 March 2023 - 29 February 2024. No articles found. Bankura Sammilani College did not contribute to any ...",
+            "htmlSnippet": "Research. Date range: 1 March 2023 - 29 February 2024. No articles found. <b>Bankura Sammilani College</b> did not contribute to any&nbsp;...",
+            "formattedUrl": "https://www.nature.com/.../bankura-sammilani-college/52242c85140ba0a1...",
+            "htmlFormattedUrl": "https://www.nature.com/.../<b>bankura</b>-<b>sammilani</b>-<b>college</b>/52242c85140ba0a1...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#000000",
+                        "application-name": "Nature Index",
+                        "msapplication-config": "/nature-index/dist/img/favicons/browserconfig.xml",
+                        "og:image": "https://www.nature.com/nature-index/img/ni-logo-stacked-transparent-1024x1024.png",
+                        "theme-color": "#000000",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "og:site_name": "Nature Index",
+                        "institution_country": "India",
+                        "og:title": "Bankura Sammilani College",
+                        "institution_name": "Bankura Sammilani College",
+                        "og:description": "Research outputs, collaborations and relationships",
+                        "twitter:image": "https://www.nature.com/nature-index/img/ni-logo-stacked-transparent-1024x1024.png",
+                        "twitter:site": "@NatureIndex",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.nature.com/nature-index/img/ni-logo-stacked-transparent-1024x1024.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Role of metal complexes in inhibition of cancer growth factors ...",
+            "htmlTitle": "Role of metal complexes in inhibition of cancer growth factors ...",
+            "link": "https://esmed.org/MRA/mra/article/view/4996",
+            "displayLink": "esmed.org",
+            "snippet": "Jan 4, 2024 ... Research Assistant, Department of Zoology, Bankura Sammilani College, Kenduadihi, PIN - 722102, India. Subhajit Mahanty. Research Assistant ...",
+            "htmlSnippet": "Jan 4, 2024 <b>...</b> Research Assistant, Department of Zoology, <b>Bankura Sammilani College</b>, Kenduadihi, PIN - 722102, India. Subhajit Mahanty. Research Assistant&nbsp;...",
+            "formattedUrl": "https://esmed.org/MRA/mra/article/view/4996",
+            "htmlFormattedUrl": "https://esmed.org/MRA/mra/article/view/4996",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjgH23H4atHf_HSH9OGZyNCZqoGIo1CevIMLLXrLSYmS6RtTjqZcF8aw&s",
+                        "width": "329",
+                        "height": "153"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dc.source.uri": "https://esmed.org/MRA/mra",
+                        "citation_author_institution": "Research Assistant, Department of Zoology, Bankura Sammilani College, Kenduadihi, PIN - 722102, India",
+                        "citation_title": "Role of metal complexes in inhibition of cancer growth factors",
+                        "dc.creator.personalname": ",",
+                        "citation_journal_title": "Medical Research Archives",
+                        "dc.format": "application/pdf",
+                        "dc.rights": "Copyright (c) 2024 Medical Research Archives",
+                        "citation_date": "2024/01/04",
+                        "dc.type.articletype": "Research Articles",
+                        "dc.identifier.uri": "https://esmed.org/MRA/mra/article/view/4996",
+                        "citation_issn": "2375-1924",
+                        "dc.source": "Medical Research Archives",
+                        "dc.type": "Text.Serial.Journal",
+                        "citation_pdf_url": "https://esmed.org/MRA/mra/article/download/4996/99193547657",
+                        "dc.description": "Cancer is characterized by uncontrolled cell growth, representing a hallmark feature marked by sustained proliferation. This heightened proliferative capacity is primarily driven by the influence of growth factors. Scientific evidence suggests that growth factors play a crucial role in augmenting the transcription of specific proto-oncogenes, such as myc and fos. In the context of cancer development, these growth factors can be either produced by the cancer cells themselves or induce normal cells to release them through intricate signaling mechanisms. The functional diversity of growth factors encompasses various actions, but their predominant mode of operation is through the tyrosine kinase receptor pathway. Tyrosine kinase receptors, comprising integral membrane complexes with intrinsic kinase activity in their cytoplasmic domain, play a pivotal role in transducing signals initiated by the binding of specific growth factors (ligands). This binding event triggers the activation of the kinase function within ",
+                        "citation_author": "Saptarshi Mandal",
+                        "dc.date.created": "2024-01-04",
+                        "citation_abstract_html_url": "https://esmed.org/MRA/mra/article/view/4996",
+                        "citation_issue": "12",
+                        "dc.date.datesubmitted": "2023-12-28",
+                        "dc.date.issued": "2024-01-01",
+                        "dc.identifier.doi": "10.18103/mra.v11i12.4996",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "citation_doi": "10.18103/mra.v11i12.4996",
+                        "dc.title": "Role of metal complexes in inhibition of cancer growth factors",
+                        "dc.date.modified": "2024-01-04",
+                        "dc.source.issue": "12",
+                        "dc.identifier": "4996",
+                        "citation_volume": "11",
+                        "dc.language": "en",
+                        "dc.source.volume": "11",
+                        "dc.source.issn": "2375-1924",
+                        "gs_meta_revision": "1.1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://esmed.org/MRA/public/site/pageHeaderTitleImage_en_US.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "B.Com at Bankura Sammilani College: Courses & Fees 2024",
+            "htmlTitle": "B.Com at <b>Bankura Sammilani College</b>: Courses &amp; Fees 2024",
+            "link": "https://www.shiksha.com/college/bankura-sammilani-college-112423/courses/bcom-bc",
+            "displayLink": "www.shiksha.com",
+            "snippet": "Bankura Sammilani College offers Degree courses including 3 UG course. These programs are offerred in Full Time mode. Seats intake availability for these ...",
+            "htmlSnippet": "<b>Bankura Sammilani College</b> offers Degree courses including 3 UG course. These programs are offerred in Full Time mode. Seats intake availability for these&nbsp;...",
+            "formattedUrl": "https://www.shiksha.com/college/bankura-sammilani-college.../bcom-bc",
+            "htmlFormattedUrl": "https://www.shiksha.com/<b>college</b>/<b>bankura</b>-<b>sammilani</b>-<b>college</b>.../bcom-bc",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaflRrdYilvnRKVXT1ACMnd_hCITR_vU95QiGfl5c6e3AYR7aC9WLWyQXU&s",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "CollegeOrUniversity": [
+                    {
+                        "name": "Bankura Sammilani College",
+                        "telephone": "9735888952",
+                        "url": "https://www.bankurasammilanicollege.net/",
+                        "email": "bku.univ@gmail.com"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://images.shiksha.ws/public/images/shareThumbnail.jpg",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "B.Com at Bankura Sammilani College: Courses & Fees 2024",
+                        "copyright": "Shiksha.com",
+                        "twitter:url": "https://www.shiksha.com/college/bankura-sammilani-college-112423/courses/bcom-bc",
+                        "og:title": "B.Com at Bankura Sammilani College: Courses & Fees 2024",
+                        "twitter:image": "https://images.shiksha.ws/public/images/shareThumbnail.jpg",
+                        "referrer": "no-referrer-when-downgrade",
+                        "fb:app_id": "185428988177601",
+                        "twitter:site": "@Shiksha.com",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "twitter:description": "Check B.Com Courses & Fees at Bankura Sammilani College for 2024. Find Fee Structure, Course Duration, Reviews, Cutoff, Eligibility & Exams. Download Brochures & Admission details of B.Com courses at Bankura Sammilani College.",
+                        "og:url": "https://www.shiksha.com/college/bankura-sammilani-college-112423/courses/bcom-bc"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.shiksha.ws/public/images/shareThumbnail.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Dr. Priyam Das",
+            "htmlTitle": "Dr. Priyam Das",
+            "link": "https://sites.google.com/site/daspriyam3/home",
+            "displayLink": "sites.google.com",
+            "snippet": "The Quantum Optics group is based in the Department of Physics at Bankura Sammilani College, located in West Bengal, India. The group specializes in the ...",
+            "htmlSnippet": "The Quantum Optics group is based in the Department of Physics at <b>Bankura Sammilani College</b>, located in West Bengal, India. The group specializes in the&nbsp;...",
+            "formattedUrl": "https://sites.google.com/site/daspriyam3/home",
+            "htmlFormattedUrl": "https://sites.google.com/site/daspriyam3/home",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "referrer": "strict-origin-when-cross-origin",
+                        "og:image": "https://lh3.googleusercontent.com/ecT07XOSmfGzj1sdRY7k0LBARPmnUgdZ38Cp1bdUproAkgGuP3UqCsFnOulYNN9idXjzk7AYE2jRem9lquFm-Es=w16383",
+                        "og:type": "website",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Dr. Priyam Das",
+                        "og:url": "https://sites.google.com/site/daspriyam3/home",
+                        "og:description": "The Quantum Optics group is based in the Department of Physics at Bankura Sammilani College, located in West Bengal, India. The group specializes in the field of Quantum Optics, with a specific focus on Ultra-cold atoms. The group is dedicated to exploring and understanding the phenomena associated"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "image": "https://lh3.googleusercontent.com/ecT07XOSmfGzj1sdRY7k0LBARPmnUgdZ38Cp1bdUproAkgGuP3UqCsFnOulYNN9idXjzk7AYE2jRem9lquFm-Es=w16383",
+                        "imageurl": "https://lh3.googleusercontent.com/ecT07XOSmfGzj1sdRY7k0LBARPmnUgdZ38Cp1bdUproAkgGuP3UqCsFnOulYNN9idXjzk7AYE2jRem9lquFm-Es=w16383",
+                        "name": "Dr. Priyam Das",
+                        "description": "The Quantum Optics group is based in the Department of Physics at Bankura Sammilani College, located in West Bengal, India. The group specializes in the field of Quantum Optics, with a specific...",
+                        "url": "https://sites.google.com/site/daspriyam3/home",
+                        "thumbnailurl": "https://lh3.googleusercontent.com/ecT07XOSmfGzj1sdRY7k0LBARPmnUgdZ38Cp1bdUproAkgGuP3UqCsFnOulYNN9idXjzk7AYE2jRem9lquFm-Es=w16383"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lh3.googleusercontent.com/ecT07XOSmfGzj1sdRY7k0LBARPmnUgdZ38Cp1bdUproAkgGuP3UqCsFnOulYNN9idXjzk7AYE2jRem9lquFm-Es=w16383"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bankura Sammilani Medical College",
+            "htmlTitle": "<b>Bankura Sammilani</b> Medical <b>College</b>",
+            "link": "https://bsmedicalcollege.org.in/",
+            "displayLink": "bsmedicalcollege.org.in",
+            "snippet": "B.S. Medical College was established in 1956 by Bankura Sammilani Trust. The college was taken over by Government of West Bengal in 1961. MCI recognition for ...",
+            "htmlSnippet": "B.S. Medical <b>College</b> was established in 1956 by <b>Bankura Sammilani</b> Trust. The <b>college</b> was taken over by Government of West Bengal in 1961. MCI recognition for&nbsp;...",
+            "formattedUrl": "https://bsmedicalcollege.org.in/",
+            "htmlFormattedUrl": "https://bsmedical<b>college</b>.org.in/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "bs medical college": "Welcome to the official website of Bankura Sammilani Medical College"
+                    }
+                ]
+            }
+        }
+    ]
+}

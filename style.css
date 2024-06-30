@@ -1,0 +1,247 @@
+/* universal */
+html{
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-family: cursive;
+    color: rgb(73, 28, 96);
+    background-color: rgb(195, 191, 191);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main {
+    width: 800px;
+    margin: 0px;
+    padding: auto;
+    background-color: rgb(175, 238, 224);
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+
+
+/* header */
+.header {
+    width: 100%;
+    height: auto;
+    background-color: #40610240;
+    margin: 0px;
+    padding: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.search_bar {
+    width: calc(100% - 30px);
+    height: auto;
+    display: flex;
+    margin: 15px;
+    flex-direction: row;
+}
+
+.search_bar input {
+    height: 30px;
+    width: calc(100% - 85px);
+    background-color: #ffffff30;
+    border: 1px solid white;
+    margin-right: 5px;
+    border-radius: 5px;
+    font-family: cursive;
+    color: #202020;
+    box-shadow: 0px 0px 4px gray;
+}
+
+.search_bar input:hover {
+    box-shadow: 0px 0px 10px gray;
+}
+
+.search_bar button {
+    height: auto;
+    width: 80px;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-family: cursive;
+    box-shadow: 0px 0px 4px gray;
+
+}
+
+.search_bar button:hover {
+    box-shadow: 0px 0px 10px gray;
+}
+
+button {
+    height: auto;
+    width: 80px;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-family: cursive;
+    box-shadow: 0px 0px 4px gray;
+
+}
+
+button:hover {
+    box-shadow: 0px 0px 10px gray;
+}
+
+.filter {
+    height: 10px;
+}
+
+
+
+/* body */
+.body {
+    height: auto;
+    width: calc(100% - 20px);
+    margin: 0px;
+    padding: 10px;
+    background-color: #40610240;
+    display: flex;
+    flex-direction: column;
+}
+
+.items {
+    height: auto;
+    width: calc(100% - 10px);
+    margin: 5px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(124, 185, 141);
+    border-radius: 10px;
+}
+
+.items:hover {
+    border: 1px solid rgb(236, 231, 197);
+    box-shadow: 0px 0px 10px gray;
+}
+
+.top {
+    height: 40px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+}
+
+.top img {
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+}
+
+.link {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+.link .url {
+    margin: 0px;
+    padding: 0px;
+    color: gray;
+    word-wrap: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.url{
+    margin: 0px;
+    padding: 0px;
+    color: gray;
+    word-wrap: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.link .domain {
+    margin: 0px;
+    padding: 0px;
+    color: #409102;
+}
+
+.link:hover>.url {
+    text-decoration: underline;
+}
+
+.items .title {
+    margin: 0px;
+    padding: 5px;
+    padding-top: 10px;
+}
+
+.items .title a {
+    text-decoration: none;
+}
+
+.items .title a:hover {
+    text-decoration: underline;
+}
+
+.items p {
+    margin: 0px;
+    padding: 5px;
+
+}
+
+
+
+/* footer */
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #40810240;
+}
+
+.showpage {
+    height: auto;
+    width: calc(100% - 20px);
+    padding: 10px;
+    background-color: #40810240;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.showpage a {
+    height: auto;
+    width: auto;
+    padding: 20px;
+}
+
+.showpage a:hover {
+    background-color: #40810240;
+}
+
+.showpage .active {
+    border-bottom: 2px solid blue;
+}
+
+.about {
+    text-align: center;
+}
