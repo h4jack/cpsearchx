@@ -69,7 +69,7 @@ This project was developed as a learning exercise to implement AJAX-based search
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/h4jack/rpscmd/blob/main/LICENSE/)
+This project is licensed under the [MIT License](https://github.com/h4jack/cpsearchx/blob/main/LICENSE/)
 
 
 ## Feedback
