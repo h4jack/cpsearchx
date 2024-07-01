@@ -2,8 +2,8 @@
 
 function getSearchResults($query, $start = 1)
 {
-    $apiKey = '[[your api key..]]';
-    $cx = '[[put the cx id of programmable search engine e.g: 8....7e97b3.....a';
+    $apiKey = 'xxxx'; // put your api...
+    $cx = 'xxxx';   // put your cs id of your programmable search engine..
     $url = "https://www.googleapis.com/customsearch/v1?key=$apiKey&cx=$cx&q=" . urlencode($query) . "&start=" . urlencode($start);
 
     // Make the request and get the response

@@ -8,17 +8,19 @@ document.getElementById('searchForm').addEventListener('submit', function (e) {
 });
 
 function fetchResults(query, start = 1) {
+    document.getElementById('loading').style.display = "block";
     fetch(`load.php?q=${encodeURIComponent(query)}&start=${start}`)
-        .then(response => response.json())
-        .then(data => displayResults(data))
-        .catch(error => console.error('Error:', error));
-        document.title = `${query} - CPSearchX`;
+    .then(response => response.json())
+    .then(data => displayResults(data))
+    .catch(error => console.error('Error:', error));
+    document.title = `${query} - CPSearchX`;
 }
 
 function displayResults(data) {
     const itemList = document.getElementById('item_list');
     // itemList.innerHTML = '';
-
+    document.getElementById('loading').style.display = "none";
+    
     if (data.items) {
         data.items.forEach(item => {
             const title = item.title || '<i>no heading for that one</i>';

@@ -131,6 +131,35 @@
         <div id="item_list" class="body">
             <!-- Search results will be appended here -->
         </div>
+        <!-- HTML -->
+    
+    <!-- CSS -->
+        <style>
+            .loading {
+                width: 100%;
+                height: 5px;
+                border-radius: 10px;
+                /* background-color: transparent; */
+                background-color: #40810240;
+                box-shadow: 0px 0px 4px gray;
+                align-self:center;
+            }
+        
+            .loading-bar-inner {
+                width: 0%;
+                height: 100%;
+                background-color: #40810260;
+                border-radius: 10px;
+                transition: width 0.5s;
+            }
+            .loading {
+                display: none; /* hide by default */
+            }
+        </style>
+        <div class="loading" id="loading" style="display:none;">
+            <div class="loading-bar-inner"></div>
+        </div>
+
         <div class="footer">
             <!-- Pagination Links -->
             <button style="display:none" class='load_more' id='load_more' type='submit'>Load More..</button>
@@ -142,6 +171,25 @@
             </div>
         </div>
     </div>
+
+    <script>
+        const loadingBarInner = document.querySelector('.loading-bar-inner');
+        const loading = document.getElementById('loading');
+        let progress = 0;
+
+        function animateLoadingBar() {
+            progress += 1;
+            loadingBarInner.style.width = `${progress}%`;
+            if (progress < 100) {
+                requestAnimationFrame(animateLoadingBar);
+            } else {
+                progress = 0;
+                animateLoadingBar();
+            }
+        }
+
+        animateLoadingBar();
+    </script>
 
     <script>
     const urlParams = new URLSearchParams(window.location.search);
@@ -158,8 +206,19 @@
         }
     };
 
+    function showLoadingBar() {
+        loadingElement.style.display = "block";
+        animateLoadingBar();
+    }
+
+    function hideLoadingBar() {
+        loadingElement.style.display = "none";
+    }
     
     window.onload = function () {
+    // Show the loading bar
+    // showLoadingBar();
+
         if (query) {
             document.getElementById('query').value = query;
             if(start){
@@ -178,7 +237,9 @@
                 <a href='?q=best food for morning'>
                     <strong>best food for morning</strong>
                 </a>`;
-        }
+        }    
+    // Hide the loading bar
+    // hideLoadingBar();
     };
     </script>
 </body>
